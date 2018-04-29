@@ -1,0 +1,193 @@
+<resources>
+    <string name="app_name">Pleven Tour Guide</string>
+    <string name="open">open</string>
+    <string name="close">open</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="category_sights">Sights</string>
+
+    <string name="category_restraunts">Restraunts</string>
+
+    <string name="category_shops">Shops</string>
+
+    <string name="category_info">Info</string>
+
+    <string name="sights_cascade_name">The Cascade</string>
+    <string name="sights_cascade_description">Combining water and lighting effects this landmark is a spectacular series of fountains, which is especially eye-catching at night.</string>
+    <string name="sights_cascade_address">5800 Pleven Centre</string>
+
+    <string name="sights_mausoleum_name">Mausoleum St. Georgi Pobedonosets</string>
+    <string name="sights_mausoleum_description">Built in honor of the fallen soldiers during the siege of Pleven in 1877-1878, which remains are buried in this chapel.</string>
+    <string name="sights_mausoleum_address">Pleven Centre, Vazrajdane No.5 Square</string>
+
+    <string name="sights_museum_name">Regional Historical Museum</string>
+    <string name="sights_museum_description">Originally built for military purposes, today the museum contains 10000 tomes of scientific literature, and numerous objects of historical value, some dating back to the Roman Empire .  </string>
+    <string name="sights_museum_address"> Stojan Zaimov No.3 Street </string>
+
+    <string name="sights_statue_name">Maika Bulgaria Memorial</string>
+    <string name="sights_statue_description">At the entrance of Scobelev park, you can find this monument depicting a woman overlooking the whole city atop a huge flight of stairs. It is built for the 100th anniversary of the Bulgarian liberation.</string>
+    <string name="sights_statue_address">Alexander Scobelev Street</string>
+
+    <string name="sights_scobelevpark_name">Scobelev Park</string>
+    <string name="sights_scobelevpark_description">Built in 1904 in honor of the fallen russian and romanian soldiers during the siege of Pleven. It is located on the battlefield, south of the city.</string>
+    <string name="sights_scobelevpark_address">5804 Pleven</string>
+
+    <string name="sights_panorama_name">"Plevenska Epopeja 1877"</string>
+    <string name="sights_panorama_description">With its symbolical architectural structure, a huge realistic frieze on the top floor depicting the battlefield, and a rich historical gallery, this spectacular landmark is a must see in Pleven.</string>
+    <string name="sights_panorama_address">Scobelev park</string>
+
+    <string name="sights_kailaka_name">Kailaka Park</string>
+    <string name="sights_kailaka_description">Located south from the center of the city, the park has numerous restaurants and a zoo. With its rich natural flora this park has a fresh atmosphere, perfect for walks,cycling and other sports.</string>
+    <string name="sights_kailaka_address">5800 Kailaka</string>
+
+    <string name="sights_storgozia_name">Storgozia Fortress</string>
+    <string name="sights_storgozia_description">This historical land site was built by the romans between 5th-6th century. The building once was 3-4 story high and occupied around 30000 square metres of land.</string>
+    <string name="sights_storgozia_address">Kailaka Forest 35</string>
+
+    <string name="sights_house_name">Museum Tsar Osvoboditel Aleksandar II</string>
+    <string name="sights_house_description">Built by the wealthy merchant Ivan Vatsov, this house has turned in to a park-museum.</string>
+    <string name="sights_house_address">5800 Pleven Centre</string>
+
+
+    <string name="restaurants_cantonata_name">Pizza Cantonata</string>
+    <string name="restaurants_cantonata_address">Emil Dimitrov No.54</string>
+    <string name="restaurants_cantonata_workingHours">Working Hours: 10:30 - 00:00</string>
+    <string name="restaurants_cantonata_phone">Phone: 0879 820 320</string>
+
+    <string name="restaurants_napoli_name">Pizza Napoli</string>
+    <string name="restaurants_napoli_address">Hristo Botev blvd. No.48</string>
+    <string name="restaurants_napoli_workingHours">Working Hours: 10:30 - 22:30</string>
+    <string name="restaurants_napoli_phone">Phone: 064 846 288</string>
+
+    <string name="restaurants_karutsata_name">Karutsata Tavern</string>
+    <string name="restaurants_karutsata_address">Nikolai D. Petkov strt. No.2, Centre </string>
+    <string name="restaurants_karutsata_workingHours">Working Hours: 10:00 - 01:00</string>
+    <string name="restaurants_karutsata_phone">Phone: 0876 717 158</string>
+
+    <string name="restaurants_peshterata_name">Peshterata</string>
+    <string name="restaurants_peshterata_address">Park Kailaka, 5800 </string>
+    <string name="restaurants_peshterata_workingHours">Working Hours: 10:00 - 01:00</string>
+    <string name="restaurants_peshterata_phone">Phone: 088 868 6890</string>
+
+    <string name="restaurants_karadzhekata_name">Karadzhejkata Tavern</string>
+    <string name="restaurants_karadzhekata_address">Park Kailaka, 5800 </string>
+    <string name="restaurants_karadzhekata_workingHours">Working Hours: 10:00 - 01:00</string>
+    <string name="restaurants_karadzhekata_phone">Phone: 087 866 6137</string>
+
+    <string name="restaurants_LoWiLow_name">Chinese Restaurant Lo Wi Low</string>
+    <string name="restaurants_LoWiLow_address">Ruse blvd. No.31</string>
+    <string name="restaurants_LoWiLow_workingHours">Working Hours: 8:30 - 23:30</string>
+    <string name="restaurants_LoWiLow_phone">Phone: 064 836 035</string>
+
+
+    <string name="shops_centrallMall_name">Centrall Mall Pleven</string>
+    <string name="shops_centrallMall_address">Ploshtad Svoboda, Tsar Boris III strt.</string>
+    <string name="shops_centrallMall_workingHours">Working Hours: 8:00 - 20:00</string>
+    <string name="shops_centrallMall_phone">Phone: 064 802 900</string>
+
+    <string name="shops_panoramaMall_name">Panorama Mall Pleven</string>
+    <string name="shops_panoramaMall_address">Ivan Mendilikov strt. No.1</string>
+    <string name="shops_panoramaMall_workingHours">Working Hours: 8:00 - 22:00</string>
+    <string name="shops_panoramaMall_phone">Phone: 088 806 9358</string>
+
+    <string name="shops_maxiCentre_name">Maxi Trade Centre</string>
+    <string name="shops_maxiCentre_address">Tsar Boris III strt.</string>
+    <string name="shops_maxiCentre_workingHours">Working Hours: 9:30 - 21:30</string>
+    <string name="shops_maxiCentre_phone">Phone: 087 832 7960</string>
+
+
+    <string name="info_trolleys_name">Public Transport</string>
+    <string name="info_trolleys_description">If you need a cheap and efficient way to travel around Pleven, you would want to consider using trolleys, which are the main public transport unit. Tickets are really cheap and should take you to most parts of town.</string>
+
+    <string name="info_planning_name">Plan your trip</string>
+    <string name="info_planning_description">Keep in mind that Pleven is a relatively small town, and one week should be more than enough to visit more notable landmarks in the city.</string>
+
+    <string name="info_season_name">Seasons in Pleven</string>
+    <string name="info_season_description">The weather can be erratic sometimes during the spring seasons, and winter is very cold here. Check weather forecasts regularly if you decide to visit.</string>
+
+    <string name="info_counterfeits_name">Counterfeit items</string>
+    <string name="info_counterfeits_description">You could get scammed with counterfeit items by smugglers if you are not careful. So remember if it sounds too good to be true, it usually is not.</string>
+
+    <string name="welcome_message">Pleven (Bulgarian: Плевен pronounced [ˈplɛvɛn]) is the seventh most populous city in Bulgaria. Located in the northern part of the country, it is the administrative centre of Pleven Province, as well as of the subordinate Pleven municipality. It is the biggest economic center in Northwestern Bulgaria. At the end of 2015 its population is 99,628.
+        Internationally known for the Siege of Plevna of 1877, it is today a major economic centre of the Bulgarian Northwest and Central North and the third largest city of Northern Bulgaria after Varna and Rousse.
+    Pleven is located in an agricultural region in the very heart of the Danubian Plain, the historical region of Moesia, surrounded by low limestone hills, the Pleven Heights.The city (then mostly known as Plevna outside Bulgaria) was a major battle scene during the Russo-Turkish War of 1877–1878 that Russian Tsar Alexander II held for the purpose of the liberation of Bulgaria. The joint Russian and Romanian army paid dearly for the victory, but it paved the path to the defeat of the Ottoman Empire in this war, the restoration of Bulgaria as a state and the independence of Romania from the Ottoman Empire. It cost the Russians and Romanians 5 months and 38,000 casualties to take the town after four assaults, in what was one of the decisive battles of the war. The siege is remembered as a landmark victory of the Romanian War of Independence, as on 28 November 1877 the Plevna citadel capitulated, and Osman Pasha surrendered the city, the garrison and his sword to the Romanian Colonel Mihail Cerchez.</string>
+
+
+    <string name="hotels_balkan_name">Balkan</string>
+    <string name="hotels_balkan_description">3 star hotel</string>
+    <string name="hotels_balkan_address">Ruse blvd. No.85</string>
+    <string name="hotels_balkan_phone">064 803 700</string>
+
+
+    <string name="hotels_rostov_name">Rostov</string>
+    <string name="hotels_rostov_description">3 star hotel</string>
+    <string name="hotels_rostov_address">Tsar Boris III strt. No.2</string>
+    <string name="hotels_rostov_phone">064 801 095</string>
+
+
+    <string name="hotels_mirage_name">Mirage</string>
+    <string name="hotels_mirage_description">3 star hotel</string>
+    <string name="hotels_mirage_address">Vasil Levski strt. No.120</string>
+    <string name="hotels_mirage_phone">088 429 6272</string>
+
+
+    <string name="hotels_simona_name">Simona</string>
+    <string name="hotels_simona_description">Guest House</string>
+    <string name="hotels_simona_address">Mart 3 strt. No.3</string>
+    <string name="hotels_simona_phone">087 862 7430</string>
+
+
+    <string name="hotels_pleven_name">Pleven</string>
+    <string name="hotels_pleven_description">Guest House</string>
+    <string name="hotels_pleven_address">Murgash 25 strt.</string>
+    <string name="hotels_pleven_phone">0877 4005 59</string>
+
+    //local services
+
+    <string name="bus_station_name">Bus Station</string>
+    <string name="bus_station_description">Local bus station</string>
+    <string name="bus_station_address">Atanas Mindilkov square No.7</string>
+    <string name="bus_station_phone">064 888 666</string>
+
+
+    <string name="hospital_name">Dr. Georgi Stranski - Pleven</string>
+    <string name="hospital_description">Hospiatl</string>
+    <string name="hospital_address">Georgi Kochev blvd.</string>
+    <string name="hospital_phone">064 886 100</string>
+
+
+    <string name="polyclinic_name">DKC 2</string>
+    <string name="polyclinic_description">Polyclinic</string>
+    <string name="polyclinic_address">San Stefano strt. No.1</string>
+    <string name="polyclinic_phone">064 888 212</string>
+
+
+    <string name="car_service_name">KIF OOD</string>
+    <string name="car_service_description">Car service</string>
+    <string name="car_service_address">Emanuil Vaskidovich strt. No.81</string>
+    <string name="car_service_phone">0887 660 959</string>
+
+
+    <string name="store_name">LIFE</string>
+    <string name="store_description">Convenience store</string>
+    <string name="store_address">Treti Mart strt.</string>
+    <string name="store_phone">064 843 844</string>
+
+
+    <string name="taxi_name">Orion</string>
+    <string name="taxi_description">Taxi</string>
+    <string name="taxi_address">Stojan Mihailovski strt. No.125"</string>
+    <string name="taxi_phone">064 825 454</string>
+
+    <string name="toast">You need GoogleMaps on your device.</string>
+    <string name="mapOfPleven">Map of Pleven</string>
+    <string name="localServices">Local Services</string>
+    <string name="hotels">Hotels</string>
+    <string name="landmarks">Landmarks</string>
+    <string name="welcome">Welcome !</string>
+    <string name="pack">com.google.android.apps.maps</string>
+    <string name="geo">geo:43.4166718, 24.6166706</string>
+
+</resources>
